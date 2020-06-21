@@ -459,3 +459,33 @@ Purple Shulker Box
 Red Shulker Box
 White Shulker Box
 Yellow Shulker Box
+Brain Coral
+Brain Coral Block
+Brain Coral Fan
+Bubble Coral
+Bubble Coral Block
+Bubble Coral Fan
+Dead Brain Coral
+Dead Brain Coral Block
+Dead Brain Coral Fan
+Dead Bubble Coral
+Dead Bubble Coral Block
+Dead Bubble Coral Fan
+Dead Fire Coral
+Dead Fire Coral Block
+Dead Fire Coral Fan
+Dead Horn Coral
+Dead Horn Coral Block
+Dead Horn Coral Fan
+Dead Tube Coral
+Dead Tube Coral Block
+Dead Tube Coral Fan
+Fire Coral
+Fire Coral Block
+Fire Coral Fan
+Horn Coral
+Horn Coral Block
+Horn Coral Fan
+Tube Coral
+Tube Coral Block
+Tube Coral Fan

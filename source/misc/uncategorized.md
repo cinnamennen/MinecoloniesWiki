@@ -11,9 +11,6 @@ Book
 Bookshelf
 Bow
 Bowl
-Brain Coral
-Brain Coral Block
-Brain Coral Fan
 Bread
 Brewing Stand
 Brick
@@ -23,9 +20,6 @@ Brick Wall
 Bricks
 Mushroom (brown)
 Brown Mushroom Block
-Bubble Coral
-Bubble Coral Block
-Bubble Coral Fan
 Bucket
 Cactus
 Cake
@@ -97,22 +91,7 @@ Dark Prismarine
 Dark Prismarine Slab
 Dark Prismarine Stairs
 Daylight Sensor
-Dead Brain Coral
-Dead Brain Coral Block
-Dead Brain Coral Fan
-Dead Bubble Coral
-Dead Bubble Coral Block
-Dead Bubble Coral Fan
 Dead Bush
-Dead Fire Coral
-Dead Fire Coral Block
-Dead Fire Coral Fan
-Dead Horn Coral
-Dead Horn Coral Block
-Dead Horn Coral Fan
-Dead Tube Coral
-Dead Tube Coral Block
-Dead Tube Coral Fan
 Detector Rails
 Diamond
 Diamond Ore
@@ -153,9 +132,6 @@ Fermented Spider Eye
 Fern
 Map (Filled)
 Fire Charge
-Fire Coral
-Fire Coral Block
-Fire Coral Fan
 Firework Rocket
 Firework Star
 Fishing Rod
@@ -197,9 +173,6 @@ Honeycomb
 Honeycomb Block
 Hopper
 Minecart with Hopper
-Horn Coral
-Horn Coral Block
-Horn Coral Fan
 Ice
 Chiseled Stone Brick Monster Egg (Infested Chiseled Stone Brick)
 Cobblestone Monster Egg (Infested Cobblestone)
@@ -466,9 +439,6 @@ Trident
 Tripwire Hook
 Tropical Fish (Clownfish)
 Bucket of Tropical Fish
-Tube Coral
-Tube Coral Block
-Tube Coral Fan
 Turtle Egg
 Turtle Shell
 Vines
