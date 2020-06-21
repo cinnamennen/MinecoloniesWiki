@@ -1,7 +1,5 @@
 Black Bed
 Black Carpet
-Black Concrete
-Black Concrete Powder
 Black Shulker Box
 Black Terracotta
 Blast Furnace
@@ -9,8 +7,6 @@ Blaze Powder
 Blaze Rod
 Blue Bed
 Blue Carpet
-Blue Concrete
-Blue Concrete Powder
 Blue Ice
 Blue Orchid
 Blue Shulker Box
@@ -34,8 +30,6 @@ Brick Wall
 Bricks
 Brown Bed
 Brown Carpet
-Brown Concrete
-Brown Concrete Powder
 Mushroom (brown)
 Brown Mushroom Block
 Brown Shulker Box
@@ -110,8 +104,6 @@ Cut Sandstone
 Cut Sandstone Slab
 Cyan Bed
 Cyan Carpet
-Cyan Concrete
-Cyan Concrete Powder
 Cyan Shulker Box
 Cyan Terracotta
 Very Damaged Anvil
@@ -138,18 +130,8 @@ Dead Tube Coral Block
 Dead Tube Coral Fan
 Detector Rails
 Diamond
-Diamond Axe
 Block of Diamond
-Diamond Boots
-Diamond Chestplate
-Diamond Helmet
-Diamond Hoe
-Diamond Horse Armor
-Diamond Leggings
 Diamond Ore
-Diamond Pickaxe
-Diamond Shovel
-Diamond Sword
 Diorite
 Diorite Slab
 Diorite Stairs
@@ -213,17 +195,7 @@ Gold Ingot
 Gold Nugget
 Gold Ore
 Golden Apple
-Golden Axe
-Golden Boots
 Golden Carrot
-Golden Chestplate
-Golden Helmet
-Golden Hoe
-Gold Horse Armor
-Golden Leggings
-Golden Pickaxe
-Golden Shovel
-Golden Sword
 Granite
 Granite Slab
 Granite Stairs
@@ -234,14 +206,10 @@ Grass Path
 Gravel
 Gray Bed
 Gray Carpet
-Gray Concrete
-Gray Concrete Powder
 Gray Shulker Box
 Gray Terracotta
 Green Bed
 Green Carpet
-Green Concrete
-Green Concrete Powder
 Green Shulker Box
 Green Terracotta
 Grindstone
@@ -266,23 +234,7 @@ Mossy Stone Brick Monster Egg (Infested Mossy Stone Brick)
 Stone Monster Egg (Infested Stone)
 Stone Brick Monster Egg (Infested Stone Brick)
 Ink Sac
-Iron Axe
-Iron Bars
-Block of Iron
-Iron Boots
-Iron Chestplate
-Iron Door
-Iron Helmet
-Iron Hoe
-Iron Horse Armor
-Iron Ingot
-Iron Leggings
-Iron Nugget
 Iron Ore
-Iron Pickaxe
-Iron Shovel
-Iron Sword
-Iron Trapdoor
 Item Frame
 Jack o'Lantern
 Jukebox
@@ -313,15 +265,14 @@ Leather
 Leather Boots
 Leather Tunic
 Leather Cap
-Leather Horse Armor
 Leather Pants
 Lecturn
 Lever
 Light
 Light Blue Bed
 Light Blue Carpet
-Light Blue Concrete
-Light Blue Concrete Powder
+Light 
+Light 
 Light
 Light
 Light Blue Shulker Box
@@ -332,8 +283,8 @@ Light
 Light
 Light Gray Bed
 Light Gray Carpet
-Light Gray Concrete
-Light Gray Concrete Powder
+Light 
+Light 
 Light
 Light
 Light Gray Shulker Box
@@ -347,15 +298,11 @@ Lily of the Valley
 Lily Pad
 Lime Bed
 Lime Carpet
-Lime Concrete
-Lime Concrete Powder
 Lime Shulker Box
 Lime Terracotta
 Loom
 Magenta Bed
 Magenta Carpet
-Magenta Concrete
-Magenta Concrete Powder
 Magenta Shulker Box
 Magenta Terracotta
 Magma Block
@@ -421,8 +368,6 @@ Observer
 Obsidian
 Orange Bed
 Orange Carpet
-Orange Concrete
-Orange Concrete Powder
 Orange Shulker Box
 Orange Terracotta
 Orange Tulip
@@ -435,8 +380,6 @@ Petrified Oak Slab
 Phantom Membrane
 Pink Bed
 Pink Carpet
-Pink Concrete
-Pink Concrete Powder
 Pink Shulker Box
 Pink Terracotta
 Pink Tulip
@@ -475,8 +418,6 @@ Pumpkin Pie
 Pumpkin Seeds
 Purple Bed
 Purple Carpet
-Purple Concrete
-Purple Concrete Powder
 Purple Shulker Box
 Purple Terracotta
 Purpur Block
@@ -495,8 +436,6 @@ Rabbit Stew
 Rails
 Red Bed
 Red Carpet
-Red Concrete
-Red Concrete Powder
 Mushroom (red with white spots)
 Red Mushroom Block
 Red Nether Brick Slab
@@ -577,19 +516,14 @@ Spruce Wood with Bark
 Stick
 Sticky Piston
 Stone
-Stone Axe
 Stone Brick Slab
 Stone Brick Stairs
 Stone Brick Wall
 Stone Bricks
 Stone Button
-Stone Hoe
-Stone Pickaxe
 Stone Pressure Plate
-Stone Shovel
 Stone Slab
 Stone Stairs
-Stone Sword
 Stonecutter
 String
 Structure Block
@@ -623,24 +557,15 @@ Wheat
 Seeds
 White Bed
 White Carpet
-White Concrete
-White Concrete Powder
 White Shulker Box
 White Terracotta
 White Tulip
 Wither Rose
 Wither Skeleton Skull
-Wooden Axe
-Wooden Hoe
-Wooden Pickaxe
-Wooden Shovel
-Wooden Sword
 Book and Quill
 Written Book
 Yellow Bed
 Yellow Carpet
-Yellow Concrete
-Yellow Concrete Powder
 Yellow Shulker Box
 Yellow Terracotta
 Zombie Head

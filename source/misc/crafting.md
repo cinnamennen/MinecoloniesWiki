@@ -186,6 +186,51 @@ Red Glazed Terracotta
 White Glazed Terracotta
 Yellow Glazed Terracotta
 
+### Blacksmith
+Diamond Axe
+Diamond Boots
+Diamond Chestplate
+Diamond Helmet
+Diamond Hoe
+Diamond Leggings
+Diamond Pickaxe
+Diamond Shovel
+Diamond Sword
+Golden Axe
+Golden Boots
+Golden Chestplate
+Golden Helmet
+Golden Hoe
+Golden Leggings
+Golden Pickaxe
+Golden Shovel
+Golden Sword
+Iron Axe
+Iron Bars
+Iron Boots
+Iron Chestplate
+Iron Door
+Iron Helmet
+Iron Hoe
+Iron Ingot
+Iron Leggings
+Iron Nugget
+Iron Pickaxe
+Iron Shovel
+Iron Sword
+Iron Trapdoor
+Stone Axe
+Stone Hoe
+Stone Pickaxe
+Stone Shovel
+Stone Sword
+Wooden Axe
+Wooden Hoe
+Wooden Pickaxe
+Wooden Shovel
+Wooden Sword
+
+
 ## Production
 
 ### Flower Shop
@@ -266,3 +311,40 @@ Birch Leaves
 Birch Wood with Bark
 Dark Oak Leaves
 Dark Oak Wood with Bark
+Black Concrete
+Black Concrete Powder
+Blue Concrete
+Blue Concrete Powder
+Brown Concrete
+Brown Concrete Powder
+Cyan Concrete
+Cyan Concrete Powder
+Gray Concrete
+Gray Concrete Powder
+Green Concrete
+Green Concrete Powder
+Blue Concrete
+Blue Concrete Powder
+Gray Concrete
+Gray Concrete Powder
+Lime Concrete
+Lime Concrete Powder
+Magenta Concrete
+Magenta Concrete Powder
+Orange Concrete
+Orange Concrete Powder
+Pink Concrete
+Pink Concrete Powder
+Purple Concrete
+Purple Concrete Powder
+Red Concrete
+Red Concrete Powder
+White Concrete
+White Concrete Powder
+Yellow Concrete
+Yellow Concrete Powder
+Diamond Horse Armor
+Gold Horse Armor
+Iron Horse Armor
+Leather Horse Armor
+Block of Iron
