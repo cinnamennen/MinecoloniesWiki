@@ -50,6 +50,22 @@ Stripped Dark Oak Wood
 Stripped Jungle Wood
 Stripped Oak Wood
 Stripped Spruce Wood
+Black Bed
+Light Blue Bed
+Brown Bed
+Cyan Bed
+Light Gray Bed
+Green Bed
+Blue Bed
+Gray Bed
+Lime Bed
+Magenta Bed
+Orange Bed
+Pink Bed
+Purple Bed
+Red Bed
+White Bed
+Yellow Bed
 
 ### Mechanic
 Activator Rails
@@ -63,13 +79,13 @@ Andesite Wall
 ### Fletcher
 Arrow
 Black Banner
-Blue Banner
+Light Blue Banner
 Brown Banner
 Charge Banner
 Cyan Banner
 Charge Banner
 Globe Banner
-Gray Banner
+Light Gray Banner
 Green Banner
 Blue Banner
 Gray Banner
@@ -83,13 +99,29 @@ Red Banner
 Charge Banner
 White Banner
 Yellow Banner
+Black Carpet
+Blue Carpet
+Brown Carpet
+Cyan Carpet
+Gray Carpet
+Green Carpet
+Light Blue Carpet
+Light Gray Carpet
+Lime Carpet
+Magenta Carpet
+Orange Carpet
+Pink Carpet
+Purple Carpet
+Red Carpet
+White Carpet
+Yellow Carpet
 
 ### Dyer
 Black Wool
-Blue Wool
+Light Blue Wool
 Brown Wool
 Cyan Wool
-Gray Wool
+Light Gray Wool
 Green Wool
 Blue Wool
 Gray Wool
@@ -102,10 +134,10 @@ Red Wool
 White Wool
 Yellow Wool
 Black Dye
-Blue Dye
+Light Blue Dye
 Brown Dye
 Cyan Dye
-Gray Dye
+Light Gray Dye
 Green Dye
 Blue Dye
 Gray Dye
@@ -118,10 +150,10 @@ Red Dye
 White Dye
 Yellow Dye
 Black Stained Glass
-Blue Stained Glass
+Light Blue Stained Glass
 Brown Stained Glass
 Cyan Stained Glass
-Gray Stained Glass
+Light Gray Stained Glass
 Green Stained Glass
 Blue Stained Glass
 Gray Stained Glass
@@ -134,10 +166,10 @@ Red Stained Glass
 White Stained Glass
 Yellow Stained Glass
 Black Stained Glass Pane
-Blue Stained Glass Pane
+Light Blue Stained Glass Pane
 Brown Stained Glass Pane
 Cyan Stained Glass Pane
-Gray Stained Glass Pane
+Light Gray Stained Glass Pane
 Green Stained Glass Pane
 Blue Stained Glass Pane
 Gray Stained Glass Pane
@@ -149,13 +181,61 @@ Purple Stained Glass Pane
 Red Stained Glass Pane
 White Stained Glass Pane
 Yellow Stained Glass Pane
+Black Bed
+Light Blue Bed
+Brown Bed
+Cyan Bed
+Light Gray Bed
+Green Bed
+Blue Bed
+Gray Bed
+Lime Bed
+Magenta Bed
+Orange Bed
+Pink Bed
+Purple Bed
+Red Bed
+White Bed
+Yellow Bed
+Black Terracotta
+Blue Terracotta
+Brown Terracotta
+Cyan Terracotta
+Gray Terracotta
+Green Terracotta
+Light Blue Terracotta
+Light Gray Terracotta
+Lime Terracotta
+Magenta Terracotta
+Orange Terracotta
+Pink Terracotta
+Purple Terracotta
+Red Terracotta
+White Terracotta
+Yellow Terracotta
+Black Carpet
+Blue Carpet
+Brown Carpet
+Cyan Carpet
+Gray Carpet
+Green Carpet
+Light Blue Carpet
+Light Gray Carpet
+Lime Carpet
+Magenta Carpet
+Orange Carpet
+Pink Carpet
+Purple Carpet
+Red Carpet
+White Carpet
+Yellow Carpet
 
 ### Glassblower
 Black Stained Glass Pane
-Blue Stained Glass Pane
+Light Blue Stained Glass Pane
 Brown Stained Glass Pane
 Cyan Stained Glass Pane
-Gray Stained Glass Pane
+Light Gray Stained Glass Pane
 Green Stained Glass Pane
 Blue Stained Glass Pane
 Gray Stained Glass Pane
@@ -170,10 +250,10 @@ Yellow Stained Glass Pane
 
 ### Stone Smelter
 Black Glazed Terracotta
-Blue Glazed Terracotta
+Light Blue Glazed Terracotta
 Brown Glazed Terracotta
 Cyan Glazed Terracotta
-Gray Glazed Terracotta
+Light Gray Glazed Terracotta
 Green Glazed Terracotta
 Blue Glazed Terracotta
 Gray Glazed Terracotta
@@ -239,6 +319,14 @@ Azure Bluet
 
 ### Miner
 Andesite
+Coal Ore
+Diamond Ore
+Emerald Ore
+Gold Ore
+Iron Ore
+Lazuli Ore
+Quartz Ore
+Redstone Ore
 
 ### Lumberjack
 Acacia Log
@@ -277,10 +365,10 @@ Beetroot Seeds
 
 ### Shepherd
 Black Wool
-Blue Wool
+Light Blue Wool
 Brown Wool
 Cyan Wool
-Gray Wool
+Light Gray Wool
 Green Wool
 Blue Wool
 Gray Wool
@@ -313,14 +401,14 @@ Dark Oak Leaves
 Dark Oak Wood with Bark
 Black Concrete
 Black Concrete Powder
-Blue Concrete
-Blue Concrete Powder
+Light Blue Concrete
+Light Blue Concrete Powder
 Brown Concrete
 Brown Concrete Powder
 Cyan Concrete
 Cyan Concrete Powder
-Gray Concrete
-Gray Concrete Powder
+Light Gray Concrete
+Light Gray Concrete Powder
 Green Concrete
 Green Concrete Powder
 Blue Concrete
@@ -348,3 +436,26 @@ Gold Horse Armor
 Iron Horse Armor
 Leather Horse Armor
 Block of Iron
+Block of Diamond
+Block of Emerald
+Block of Gold
+Block of Melon
+Block of Nether Brick
+Block of Quartz
+Block of Redstone
+Black Shulker Box
+Blue Shulker Box
+Brown Shulker Box
+Cyan Shulker Box
+Gray Shulker Box
+Green Shulker Box
+Light Blue Shulker Box
+Light Gray Shulker Box
+Lime Shulker Box
+Magenta Shulker Box
+Orange Shulker Box
+Pink Shulker Box
+Purple Shulker Box
+Red Shulker Box
+White Shulker Box
+Yellow Shulker Box

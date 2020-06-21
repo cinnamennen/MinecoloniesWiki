@@ -1,16 +1,9 @@
-Black Bed
-Black Carpet
-Black Shulker Box
-Black Terracotta
+
 Blast Furnace
 Blaze Powder
 Blaze Rod
-Blue Bed
-Blue Carpet
 Blue Ice
 Blue Orchid
-Blue Shulker Box
-Blue Terracotta
 Bone
 Bone Block
 Bone Meal
@@ -28,12 +21,8 @@ Brick Slab
 Brick Stairs
 Brick Wall
 Bricks
-Brown Bed
-Brown Carpet
 Mushroom (brown)
 Brown Mushroom Block
-Brown Shulker Box
-Brown Terracotta
 Bubble Coral
 Bubble Coral Block
 Bubble Coral Fan
@@ -102,10 +91,6 @@ Cut Red Sandstone
 Cut Red Sandstone Slab
 Cut Sandstone
 Cut Sandstone Slab
-Cyan Bed
-Cyan Carpet
-Cyan Shulker Box
-Cyan Terracotta
 Very Damaged Anvil
 Dandelion
 Dark Prismarine
@@ -130,7 +115,6 @@ Dead Tube Coral Block
 Dead Tube Coral Fan
 Detector Rails
 Diamond
-Block of Diamond
 Diamond Ore
 Diorite
 Diorite Slab
@@ -147,7 +131,6 @@ Dropper
 Egg
 Elytra
 Emerald
-Block of Emerald
 Emerald Ore
 Enchanted Book
 Enchanted Golden Apple
@@ -190,7 +173,6 @@ Glass Pane
 Glistering Melon Pattern
 Glowstone
 Glowstone Dust
-Block of Gold
 Gold Ingot
 Gold Nugget
 Gold Ore
@@ -204,14 +186,6 @@ Grass
 Grass Block
 Grass Path
 Gravel
-Gray Bed
-Gray Carpet
-Gray Shulker Box
-Gray Terracotta
-Green Bed
-Green Carpet
-Green Shulker Box
-Green Terracotta
 Grindstone
 Gunpowder
 Hay Bale
@@ -268,47 +242,14 @@ Leather Cap
 Leather Pants
 Lecturn
 Lever
-Light
-Light Blue Bed
-Light Blue Carpet
-Light 
-Light 
-Light
-Light
-Light Blue Shulker Box
-Light
-Light 
-Light Blue Terracotta
-Light
-Light
-Light Gray Bed
-Light Gray Carpet
-Light 
-Light 
-Light
-Light
-Light Gray Shulker Box
-Light
-Light 
-Light Gray Terracotta
-Light
 Light Weighted Pressure Plate
 Lilac
 Lily of the Valley
 Lily Pad
-Lime Bed
-Lime Carpet
-Lime Shulker Box
-Lime Terracotta
 Loom
-Magenta Bed
-Magenta Carpet
-Magenta Shulker Box
-Magenta Terracotta
 Magma Block
 Magma Cream
 Map
-Block of Melon
 Melon Seeds
 Melon Slice
 Milk
@@ -344,7 +285,6 @@ Nether Brick Fence
 Nether Brick Slab
 Nether Brick Stairs
 Nether Brick Wall
-Block of Nether Brick
 Nether Quartz Ore
 Nether Star
 Nether Wart
@@ -366,10 +306,6 @@ Oak Trapdoor
 Oak Wood with Bark
 Observer
 Obsidian
-Orange Bed
-Orange Carpet
-Orange Shulker Box
-Orange Terracotta
 Orange Tulip
 Oxeye Daisy
 Packed Ice
@@ -378,10 +314,6 @@ Paper
 Peony
 Petrified Oak Slab
 Phantom Membrane
-Pink Bed
-Pink Carpet
-Pink Shulker Box
-Pink Terracotta
 Pink Tulip
 Piston
 Steve Head
@@ -416,16 +348,11 @@ Bucket of Pufferfish
 Pumpkin
 Pumpkin Pie
 Pumpkin Seeds
-Purple Bed
-Purple Carpet
-Purple Shulker Box
-Purple Terracotta
 Purpur Block
 Purpur Pillar
 Purpur Slab
 Purpur Stairs
 Nether Quartz
-Block of Quartz
 Pillar Quartz Block
 Quartz Slab
 Quartz Stairs
@@ -434,8 +361,6 @@ Rabbit's Foot
 Rabbit Hide
 Rabbit Stew
 Rails
-Red Bed
-Red Carpet
 Mushroom (red with white spots)
 Red Mushroom Block
 Red Nether Brick Slab
@@ -447,11 +372,8 @@ Red Sandstone
 Red Sandstone Slab
 Red Sandstone Stairs
 Red Sandstone Wall
-Red Shulker Box
-Red Terracotta
 Red Tulip
 Redstone Dust
-Block of Redstone
 Redstone Lamp
 Redstone Ore
 Redstone Torch
@@ -555,17 +477,9 @@ Water Bucket
 Wet Sponge
 Wheat
 Seeds
-White Bed
-White Carpet
-White Shulker Box
-White Terracotta
 White Tulip
 Wither Rose
 Wither Skeleton Skull
 Book and Quill
 Written Book
-Yellow Bed
-Yellow Carpet
-Yellow Shulker Box
-Yellow Terracotta
 Zombie Head
